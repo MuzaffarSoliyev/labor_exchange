@@ -1,0 +1,10 @@
+__pycache__
+
+
+.env
+.venv
+venv/
+.idea
+data
+db/__pycache__
+core/__pycache__
